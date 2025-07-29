@@ -4,7 +4,7 @@
 
 ---
 ## 🚀 About Me
-👋 Hi, I’m Khương Đức Anh, a passionate Fullstack Developer with a strong foundation in both frontend and backend technologies. I specialize in building scalable, efficient web applications and robust desktop software using modern frameworks and tools.<br>
+👋 Hi, I’m Khuong Duc Anh, a passionate Fullstack Developer with a strong foundation in both frontend and backend technologies. I specialize in building scalable, efficient web applications and robust desktop software using modern frameworks and tools.<br>
 My expertise spans across Web Development, API integration, and Desktop App Development with technologies such as WPF, WinForms, and .NET.
 
 ---
@@ -19,14 +19,16 @@ My expertise spans across Web Development, API integration, and Desktop App Deve
 ### ⚙️ Backend Development
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)<br>
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)<br>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
 ### 🖥️ Desktop App Development
 ![WPF](https://img.shields.io/badge/WPF-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white)
 ![WinForms](https://img.shields.io/badge/WinForms-%235C2D91.svg?style=for-the-badge&logo=windows&logoColor=white)
+
+### 🎮 Game Development
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
