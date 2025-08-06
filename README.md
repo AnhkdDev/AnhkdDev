@@ -2,12 +2,12 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ducanh.khuong.1414/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khuongducanh.kda@gmail.com)
 
----
+
 ## 🚀 About Me
 👋 Hi, I’m Khuong Duc Anh, a passionate Fullstack Developer with a strong foundation in both frontend and backend technologies. I specialize in building scalable, efficient web applications and robust desktop software using modern frameworks and tools.<br>
 My expertise spans across Web Development, API integration, and Desktop App Development with technologies such as WPF, WinForms, and .NET.
 
----
+
 
 ## 🛠️ My Skills
 
